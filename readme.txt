@@ -1,2 +1,6 @@
 "Hello World"
 "Let's play together"
+"Humans like to play together"
+"I will plan myself until then"
+"You remember anymore"
+"I can help if you want to"
